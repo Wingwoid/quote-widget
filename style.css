@@ -3,6 +3,8 @@
   width: 450px;
   height: 300px;
   overflow: hidden;
+  background-image: url('https://imgur.com/a/HUpFxZC');
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
