@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px; /* Добавим немного padding для отступов */
+  padding: 50px; /* Добавим немного padding для отступов */
   box-sizing: border-box;
 }
 
