@@ -3,20 +3,12 @@
   width: 450px;
   height: 300px;
   overflow: hidden;
-  background-image: url('Frame-Widget-1.png'); /* Add your background image here */
+  background-color: #191919;
+  background-image: url('Frame-Widget-1.png'); /* Замените 'frame.png' на имя вашего файла */
   background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-/*.quote-frame {
-  position: absolute;
-  width: 450px;
-  height: 300px;
-  top: 0;
-  left: 0;
-  z-index: 0;*/
 }
 
 .quote-widget blockquote {
